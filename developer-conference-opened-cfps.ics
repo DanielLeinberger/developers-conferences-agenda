@@ -2,916 +2,885 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:DCA
 BEGIN:VEVENT
-UID:Copilot Days Zaragoza 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240914
-LOCATION:Zaragoza (Spain)
-SUMMARY:Copilot Days Zaragoza 2024
-URL:https://sessionize.com/copilot-days-zaragoza-2024
+UID:DevTalks Cluj@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250905
+LOCATION:Cluj, Transylvania (Romania)
+SUMMARY:DevTalks Cluj
+URL:https://www.papercall.io/devtalksclujnapoca-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:BSidesChicago 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240914
-LOCATION:Chicago, IL (USA)
-SUMMARY:BSidesChicago 2024
-URL:https://sessionize.com/bsideschicago-2024/
+UID:DDD Adelaide@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250905
+LOCATION:Adelaide (Australia)
+SUMMARY:DDD Adelaide
+URL:https://sessionize.com/dddadelaide2025
 END:VEVENT
 BEGIN:VEVENT
-UID:Data Saturday Parma 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240914
-LOCATION:Parma (Italy)
-SUMMARY:Data Saturday Parma 2024
-URL:https://sessionize.com/data-saturday-parma-2024/
+UID:AzureOnBeer@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250907
+LOCATION:Vicenza (Italy)
+SUMMARY:AzureOnBeer
+URL:https://sessionize.com/azureonbeer/
 END:VEVENT
 BEGIN:VEVENT
-UID:Google DevFest 2024 - Mauritius@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Pamplemousses (Mauritius)
-SUMMARY:Google DevFest 2024 - Mauritius
-URL:https://sessionize.com/google-devfest-2024-mauritius/
+UID:Devfest Brisbane 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250907
+LOCATION:Brisbane (Australia)
+SUMMARY:Devfest Brisbane 2025
+URL:https://sessionize.com/devfest-brisbane-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:Google DevFest 2024 - Mauritius@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Pamplemousses (Mauritius)
-SUMMARY:Google DevFest 2024 - Mauritius
-URL:https://sessionize.com/google-devfest-2024-mauritius
+UID:AWS Community Day Hong Kong 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250907
+LOCATION:Hong Kong (Hong Kong)
+SUMMARY:AWS Community Day Hong Kong 2025
+URL:https://sessionize.com/aws-community-day-hong-kong/
 END:VEVENT
 BEGIN:VEVENT
-UID:GopherConAU 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Sydney (Australia)
-SUMMARY:GopherConAU 2024
-URL:https://www.papercall.io/gopherconau2024
+UID:SREday Amsterdam 2025 Q4@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250907
+LOCATION:Amsterdam (Netherlands)
+SUMMARY:SREday Amsterdam 2025 Q4
+URL:https://www.papercall.io/sreday-amsterdam-2025-q4
 END:VEVENT
 BEGIN:VEVENT
-UID:CodeXperience Zona da Mata 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Juiz De Fora, MG (Brazil)
-SUMMARY:CodeXperience Zona da Mata 2024
-URL:https://www.papercall.io/codexperience-zona-da-mata-2024
+UID:Azure Tour 2025 - Valencia@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250910
+LOCATION:Valencia (Spain)
+SUMMARY:Azure Tour 2025 - Valencia
+URL:https://sessionize.com/azure-tour-2025-valencia/
 END:VEVENT
 BEGIN:VEVENT
-UID:FOSSCOMM 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Thessaloniki (Greece)
-SUMMARY:FOSSCOMM 2024
-URL:https://2024.fosscomm.gr/call-for-papers/
+UID:CFP Mobile Hacking Space@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250910
+LOCATION:Buenos Aires (Argentina)
+SUMMARY:CFP Mobile Hacking Space
+URL:https://www.papercall.io/mobilehackingspace2025
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest Venezia 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Mestre (Italy)
-SUMMARY:DevFest Venezia 2024
-URL:https://sessionize.com/devfest-venezia-2024
+UID:Dev-fest@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250910
+LOCATION:Logroño (Spain)
+SUMMARY:Dev-fest
+URL:https://sessionize.com/coderioja-2025-dev-fest
 END:VEVENT
 BEGIN:VEVENT
-UID:Capitole Du Libre@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Toulouse (France)
-SUMMARY:Capitole Du Libre
-URL:https://cfp.capitoledulibre.org/cdl-2024/cfp
+UID:Codeurs en Seine@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Rouen (France)
+SUMMARY:Codeurs en Seine
+URL:https://conference-hall.io/codeurs-en-seine-20-novembre-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:VueConf Toronto@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Toronto (Canada)
-SUMMARY:VueConf Toronto
-URL:https://forms.vuetoronto.com/f/32e55658-2a8c-43f6-b51c-58fc153884b9
+UID:PyCon Malaysia 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Kuala Lumpur (Malaysia)
+SUMMARY:PyCon Malaysia 2025
+URL:https://cfp.pycon.my/pyconmy-2025/cfp
 END:VEVENT
 BEGIN:VEVENT
-UID:PyCon Wroclaw 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Wroclaw (Poland)
-SUMMARY:PyCon Wroclaw 2024
-URL:https://www.papercall.io/pyconwroclaw
+UID:SQL Saturday Oregon/SW Washington 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Vancouver, WA (USA)
+SUMMARY:SQL Saturday Oregon/SW Washington 2025
+URL:https://sessionize.com/sql-saturday-oregonsw-washington-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:Rust.Tokyo 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Tokyo (Japan)
-SUMMARY:Rust.Tokyo 2024
-URL:https://www.papercall.io/rusttokyo2024
+UID:DevFest Almaty 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Almaty (Kazakhstan)
+SUMMARY:DevFest Almaty 2025
+URL:https://app.advocu.com/events/68847016bb2f366f3aae2af1
 END:VEVENT
 BEGIN:VEVENT
-UID:JakartaOne Livestream 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Online
-SUMMARY:JakartaOne Livestream 2024
-URL:https://www.papercall.io/jakartaone-2024
+UID:Women in Tech Summit Kenya 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Nairobi (Kenya)
+SUMMARY:Women in Tech Summit Kenya 2025
+URL:https://docs.google.com/forms/d/e/1FAIpQLSffR6X1nHRRfZnV-eWzLOG2OntYRwN
+ oFeqACMWMU52gkkWzzg/viewform
 END:VEVENT
 BEGIN:VEVENT
-UID:KCD Floripa@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Florianópolis (Brazil)
-SUMMARY:KCD Floripa
-URL:https://sessionize.com/kcd-floripa-2024/
+UID:DevFest Berlin@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Berlin (Germany)
+SUMMARY:DevFest Berlin
+URL:https://sessionize.com/devfest-berlin-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:NDC Security 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Oslo (Norway)
-SUMMARY:NDC Security 2025
-URL:https://sessionize.com/ndc-security-2025
+UID:DevFest Port Harcourt 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Port Harcourt (Nigeria)
+SUMMARY:DevFest Port Harcourt 2025
+URL:https://sessionize.com/devfest-port-harcourt-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:Bitbash 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Veenendaal (Netherlands)
-SUMMARY:Bitbash 2025
-URL:https://sessionize.com/bitbash-2025/
+UID:PyCon Indonesia 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250914
+LOCATION:Jakarta (Indonesia)
+SUMMARY:PyCon Indonesia 2025
+URL:https://www.papercall.io/pyconid2025
 END:VEVENT
 BEGIN:VEVENT
-UID:Cloud Technology Townhall Tallinn 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Tallinn (Estonia)
-SUMMARY:Cloud Technology Townhall Tallinn 2025
-URL:https://sessionize.com/cloud-technology-townhall-tallinn-2025/
-END:VEVENT
-BEGIN:VEVENT
-UID:DecompileD 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Dresden (Germany)
-SUMMARY:DecompileD 2025
-URL:https://sessionize.com/decompiled25
-END:VEVENT
-BEGIN:VEVENT
-UID:PyCascades@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
-LOCATION:Portland, OR (USA)
-SUMMARY:PyCascades
-URL:https://2025.pycascades.com/program/cfp/
-END:VEVENT
-BEGIN:VEVENT
-UID:Devnexus 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240915
+UID:Devnexus@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20250914
 LOCATION:Atlanta, GA (USA)
-SUMMARY:Devnexus 2025
-URL:https://sessionize.com/devnexus-2025/
+SUMMARY:Devnexus
+URL:https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open
 END:VEVENT
 BEGIN:VEVENT
-UID:API Days Australia@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240916
-LOCATION:Melbourne (Australia)
-SUMMARY:API Days Australia
+UID:Conf42.com Kube Native 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250915
+LOCATION:Online
+SUMMARY:Conf42.com Kube Native 2025
+URL:https://www.papercall.io/conf42-kube-native-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:JakartaOne Livestream 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250915
+LOCATION:Online
+SUMMARY:JakartaOne Livestream 2025
+URL:https://sessionize.com/jakartaone-livestream-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:/dev/mtl 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250917
+LOCATION:Montreal (Canada)
+SUMMARY:/dev/mtl 2025
+URL:https://www.papercall.io/dev-mtl-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Ireland 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250917
+LOCATION:Portlaoise (Ireland)
+SUMMARY:DevFest Ireland 2025
+URL:https://app.advocu.com/events/6883ef32bb2f366f3aae2aae
+END:VEVENT
+BEGIN:VEVENT
+UID:Mid West Tech Conference@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250918
+LOCATION:Fulton, MO (USA)
+SUMMARY:Mid West Tech Conference
+URL:https://sessionize.com/mwtc/
+END:VEVENT
+BEGIN:VEVENT
+UID:Zebu Live 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250919
+LOCATION:London (UK)
+SUMMARY:Zebu Live 2025
+URL:https://sessionize.com/zebu-live-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Paris 2025 Q4@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250919
+LOCATION:Paris (France)
+SUMMARY:SREday Paris 2025 Q4
+URL:https://www.papercall.io/sreday-paris-2025-q4
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest'25 Ashgabat@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Ashgabat (Turkmenistan)
+SUMMARY:DevFest'25 Ashgabat
+URL:https://app.advocu.com/events/68b0ab888729e735f43aaf78
+END:VEVENT
+BEGIN:VEVENT
+UID:Africa DevOps Summit 2.0@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Nairobi (Kenya)
+SUMMARY:Africa DevOps Summit 2.0
+URL:https://www.papercall.io/adsscummit25
+END:VEVENT
+BEGIN:VEVENT
+UID:XtremeJ 2025 Online Conference@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Online
+SUMMARY:XtremeJ 2025 Online Conference
+URL:https://docs.google.com/forms/d/e/1FAIpQLScsO9iu7J6Pb-1iSGAufoUJGTE2rsX
+ yA5xFVDAh-kDE6kLi_w/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:XtremeJS 2025 Online Conference@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Online
+SUMMARY:XtremeJS 2025 Online Conference
+URL:https://docs.google.com/forms/d/e/1FAIpQLScsO9iu7J6Pb-1iSGAufoUJGTE2rsX
+ yA5xFVDAh-kDE6kLi_w/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:XtremePython 2025 Online Conference@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Online
+SUMMARY:XtremePython 2025 Online Conference
+URL:https://docs.google.com/forms/d/e/1FAIpQLScsO9iu7J6Pb-1iSGAufoUJGTE2rsX
+ yA5xFVDAh-kDE6kLi_w/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:Data Left Unattended - Amsterdam@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20250920
+LOCATION:Amsterdam (Netherlands)
+SUMMARY:Data Left Unattended - Amsterdam
+URL:https://sessionize.com/data-left-unattended-amsterdam/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Yaoundé 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250921
+LOCATION:Yaoundé (Cameroon)
+SUMMARY:DevFest Yaoundé 2025
+URL:https://sessionize.com/devfest-yaounde-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ConFoo@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20250921
+LOCATION:Montreal (Canada)
+SUMMARY:ConFoo
+URL:https://confoo.ca/fr/2026/call-for-papers
+END:VEVENT
+BEGIN:VEVENT
+UID:APIdays London@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250922
+LOCATION:London (UK)
+SUMMARY:APIdays London
 URL:https://apidays.typeform.com/to/ILJeAaV8
 END:VEVENT
 BEGIN:VEVENT
-UID:Oh My H@ck@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240916
-LOCATION:Warsaw (Poland)
-SUMMARY:Oh My H@ck
-URL:https://omhconf.pl/cfp-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:GroupBy 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240917
-LOCATION:Online
-SUMMARY:GroupBy 2024
-URL:https://sessionize.com/groupby-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:Droidcon Uganda 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240917
-LOCATION:Kampala (Uganda)
-SUMMARY:Droidcon Uganda 2024
-URL:https://sessionize.com/droidcon-uganda-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:Denver Dev Day@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240920
-LOCATION:Denver, CO (USA)
-SUMMARY:Denver Dev Day
-URL:https://sessionize.com/denver-dev-day-oct-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:PythonHo Conference@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240920
-LOCATION:Volta (Ghana)
-SUMMARY:PythonHo Conference
-URL:https://www.papercall.io/2024-pythonho-conference
-END:VEVENT
-BEGIN:VEVENT
-UID:DevFest Tegucigalpa 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240920
-LOCATION:Tegucigalpa (Honduras)
-SUMMARY:DevFest Tegucigalpa 2024
-URL:https://sessionize.com/devfest-tegucigalpa-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:Devfest Milano 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240922
-LOCATION:Milan (Italy)
-SUMMARY:Devfest Milano 2024
-URL:https://sessionize.com/devfest-milano-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:Confoo.ca@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240922
-LOCATION:Montreal (Canada)
-SUMMARY:Confoo.ca
-URL:https://confoo.ca/en/2025/call-for-papers
-END:VEVENT
-BEGIN:VEVENT
-UID:AWS Community Day Vadodara 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240925
-LOCATION:Vadodara (India)
-SUMMARY:AWS Community Day Vadodara 2024
-URL:https://www.papercall.io/acd-vadodara2024
-END:VEVENT
-BEGIN:VEVENT
-UID:RubyConf India 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240925
-LOCATION:Jaipur (India)
-SUMMARY:RubyConf India 2024
-URL:https://www.papercall.io/rubyconf-india-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:GopherCon India 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240925
-LOCATION:Jaipur (India)
-SUMMARY:GopherCon India 2024
-URL:https://www.papercall.io/gophercon-india-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:iOS Conf SG@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240925
-LOCATION:Singapore (Singapore)
-SUMMARY:iOS Conf SG
-URL:https://www.papercall.io/iosconfsg2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Java Land@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240925
-LOCATION:Nürburg (Germany)
-SUMMARY:Java Land
-URL:https://my.doag.org/events/javaland/cfp/
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42 Incident Management 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240926
-LOCATION:Online
-SUMMARY:Conf42 Incident Management 2024
-URL:https://www.papercall.io/conf42-incident-management-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DevIgnition/Foojay Day@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240927
-LOCATION:Washington D.C. (USA)
-SUMMARY:DevIgnition/Foojay Day
-URL:https://www.papercall.io/devignition2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DeveloperWeek 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240927
-LOCATION:Santa Clara, CA (USA)
-SUMMARY:DeveloperWeek 2025
-URL:https://sessionize.com/developerweek-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Pacific Hackers Conference 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240929
-LOCATION:Mountain View, CA (USA)
-SUMMARY:Pacific Hackers Conference 2024
-URL:https://sessionize.com/pacific-hackers-conference-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:CapSec 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Online
-SUMMARY:CapSec 2024
-URL:https://www.papercall.io/capsec
-END:VEVENT
-BEGIN:VEVENT
-UID:EUCtech fall 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Oslo (Norway)
-SUMMARY:EUCtech fall 2024
-URL:https://sessionize.com/euctech-fall-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:Iowa Code Camp Fall 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Ankeny, IA (USA)
-SUMMARY:Iowa Code Camp Fall 2024
-URL:https://sessionize.com/iowa-code-camp-fall-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:Michigan DevFest 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Detroit, MI (USA)
-SUMMARY:Michigan DevFest 2024
-URL:https://www.papercall.io/midevfest2024
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42 JavaScript 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Online
-SUMMARY:Conf42 JavaScript 2024
-URL:https://www.papercall.io/conf42-javascript-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:AWS Community Day Brasil 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Goinia (Brazil)
-SUMMARY:AWS Community Day Brasil 2024
-URL:https://sessionize.com/aws-community-day-brasil-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:AWS Community Day Brasil 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Florianópolis (Brazil)
-SUMMARY:AWS Community Day Brasil 2024
-URL:https://sessionize.com/aws-community-day-brasil-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:Codeurs en Seine@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Rouen (France)
-SUMMARY:Codeurs en Seine
-URL:https://conference-hall.io/public/event/Su6sfM6SAhoHmg3GWKHS
-END:VEVENT
-BEGIN:VEVENT
-UID:Angola Open-source Fest 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Luanda (Angola)
-SUMMARY:Angola Open-source Fest 2024
-URL:https://sessionize.com/aosfest2024
-END:VEVENT
-BEGIN:VEVENT
-UID:SQL Saturday Lima@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Lima (Peru)
-SUMMARY:SQL Saturday Lima
-URL:https://sessionize.com/sql-saturday-lima-20247093/
-END:VEVENT
-BEGIN:VEVENT
-UID:Frontend Barcelona 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Barcelona (Spain)
-SUMMARY:Frontend Barcelona 2024
-URL:https://frontend.barcelona/call-for-papers
-END:VEVENT
-BEGIN:VEVENT
-UID:Jfokus 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Stockholm (Sweden)
-SUMMARY:Jfokus 2025
-URL:https://sessionize.com/jfokus-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:PHP UK Conference 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240930
+UID:Green IO London@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250923
 LOCATION:London (UK)
-SUMMARY:PHP UK Conference 2025
-URL:https://www.papercall.io/phpuk2025
+SUMMARY:Green IO London
+URL:https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-fo
+ r-speakers&typeform-source=greenio.tech
 END:VEVENT
 BEGIN:VEVENT
-UID:Rust Nation UK 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:London (UK)
-SUMMARY:Rust Nation UK 2025
-URL:https://www.papercall.io/rustnationuk25
+UID:DevFest Guatemala City 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250924
+LOCATION:Guatemala City (Guatemala)
+SUMMARY:DevFest Guatemala City 2025
+URL:https://app.advocu.com/events/68aca43d6ce69fc634800ca0
 END:VEVENT
 BEGIN:VEVENT
-UID:Alchemy Conf 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20240930
-LOCATION:Braga (Portugal)
-SUMMARY:Alchemy Conf 2025
-URL:https://www.papercall.io/alchemy-conf-2025
+UID:Google Developer Groups Harare DevFest 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250925
+LOCATION:Harare (Zimbabwe)
+SUMMARY:Google Developer Groups Harare DevFest 2025
+URL:https://sessionize.com/devfest25-gdg-harare/
 END:VEVENT
 BEGIN:VEVENT
-UID:Hack Dearborn 3: Rewind Reality@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241001
-LOCATION:Detroit, MI (USA)
-SUMMARY:Hack Dearborn 3: Rewind Reality
-URL:https://www.papercall.io/hackdearborn3
-END:VEVENT
-BEGIN:VEVENT
-UID:CyberConVA 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241001
-LOCATION:Richmond, VA (USA)
-SUMMARY:CyberConVA 2025
-URL:https://www.papercall.io/cyberconva2025
-END:VEVENT
-BEGIN:VEVENT
-UID:AI DevWorld 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241004
-LOCATION:Santa Clara, CA (USA)
-SUMMARY:AI DevWorld 2025
-URL:https://sessionize.com/ai-devworld-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:ProductWorld 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241004
-LOCATION:Santa Clara, CA (USA)
-SUMMARY:ProductWorld 2025
-URL:https://sessionize.com/productworld-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Triangle InfoSeCon 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241006
-LOCATION:Raleigh, NC (USA)
-SUMMARY:Triangle InfoSeCon 2024
-URL:https://sessionize.com/triangle-infosecon-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:SQL Saturday Houston@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241006
-LOCATION:Houston, TX (USA)
-SUMMARY:SQL Saturday Houston
-URL:https://sessionize.com/sql-saturday-houston
-END:VEVENT
-BEGIN:VEVENT
-UID:XmasDev 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241006
-LOCATION:Rome (Italy)
-SUMMARY:XmasDev 2024
-URL:https://sessionize.com/xmasdev-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DevCon 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241007
-LOCATION:Bucharest (Romania)
-SUMMARY:DevCon 2024
-URL:https://www.papercall.io/devcon2024
-END:VEVENT
-BEGIN:VEVENT
-UID:HashiTalks: India@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241010
-LOCATION:Online
-SUMMARY:HashiTalks: India
-URL:https://sessionize.com/hashitalks-india
-END:VEVENT
-BEGIN:VEVENT
-UID:HoneyCON24@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241011
+UID:HoneyCON25@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250925
 LOCATION:Guadalajara (Spain)
-SUMMARY:HoneyCON24
-URL:https://www.papercall.io/honeycon24
+SUMMARY:HoneyCON25
+URL:https://www.papercall.io/honeycon25
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest London@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241012
-LOCATION:London (UK)
-SUMMARY:DevFest London
-URL:https://sessionize.com/devfest-london-2024
+UID:DevFest Nairobi 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250925
+LOCATION:Nairobi (Kenya)
+SUMMARY:DevFest Nairobi 2025
+URL:hhttps://app.advocu.com/events/68a86d46bbfa41c347faf666
 END:VEVENT
 BEGIN:VEVENT
-UID:Conf24 Prompt Engineering@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241014
+UID:AgentCon Ponferrada@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250925
+LOCATION:Ponferrada (Spain)
+SUMMARY:AgentCon Ponferrada
+URL:https://sessionize.com/agentcon-ponferrada
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Saskatoon 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250926
+LOCATION:Saskatoon (Canada)
+SUMMARY:DevFest Saskatoon 2025
+URL:https://app.advocu.com/events/68ae7eff04c92b1c261963b4
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest'25: Build a New Era of Innovation@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250927
+LOCATION:Arapiraca (Brazil)
+SUMMARY:DevFest'25: Build a New Era of Innovation
+URL:https://app.advocu.com/events/68b30f1975318f7a82a136a4
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42.com JavaScript 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250929
 LOCATION:Online
-SUMMARY:Conf24 Prompt Engineering
-URL:https://www.papercall.io/conf42-prompt-engineering-2024
+SUMMARY:Conf42.com JavaScript 2025
+URL:https://www.papercall.io/conf42-javascript-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:DefCamp 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241015
-LOCATION:Bucharest (Romania)
-SUMMARY:DefCamp 2024
-URL:https://sessionize.com/defcamp24
+UID:Devfest Goa 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Panaji (India)
+SUMMARY:Devfest Goa 2025
+URL:https://app.advocu.com/events/68ad23536ce69fc6348024c3
 END:VEVENT
 BEGIN:VEVENT
-UID:ServerlessDays Rome 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241015
-LOCATION:Rome (Italy)
-SUMMARY:ServerlessDays Rome 2024
-URL:https://www.papercall.io/serverlessdays-rome-24
+UID:DevOpsDays Bogotá 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Bogotá (Colombia)
+SUMMARY:DevOpsDays Bogotá 2025
+URL:https://www.papercall.io/devopsdaysbogota2025
 END:VEVENT
 BEGIN:VEVENT
-UID:SnowCamp 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241015
-LOCATION:Grenoble (France)
-SUMMARY:SnowCamp 2025
-URL:https://conference-hall.io/snow-camp-2025
+UID:DevFest Johannesburg 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Johannesburg (South Africa)
+SUMMARY:DevFest Johannesburg 2025
+URL:https://www.papercall.io/df-mtl-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:MLOps + Generative AI World 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241018
-LOCATION:Austin, TX (USA)
-SUMMARY:MLOps + Generative AI World 2024
-URL:https://sessionize.com/mlops-generative-ai-world-2024
+UID:GO!RN 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Natal (Brazil)
+SUMMARY:GO!RN 2025
+URL:https://app.advocu.com/events/68a7223a3eeb1dcc28a247fb
 END:VEVENT
 BEGIN:VEVENT
-UID:Code BEAM America 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241020
-LOCATION:San Francisco, CA (USA)
-SUMMARY:Code BEAM America 2025
-URL:https://sessionize.com/code-beam-america-2025/
+UID:SQL Saturday Houston 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Houston, TX (USA)
+SUMMARY:SQL Saturday Houston 2025
+URL:https://sessionize.com/SQLSatHouston/
 END:VEVENT
 BEGIN:VEVENT
-UID:DevOpsDays Chicago@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241020
-LOCATION:Chicago, IL (USA)
-SUMMARY:DevOpsDays Chicago
-URL:https://talks.devopsdays.org/devopsdays-chicago-2025/cfp
+UID:ServerlessDays São Paulo 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:São Paulo (Brazil)
+SUMMARY:ServerlessDays São Paulo 2025
+URL:https://www.papercall.io/serverlessdays-saopaulo-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:Conf42 Prompt Engineering 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241021
-LOCATION:Online
-SUMMARY:Conf42 Prompt Engineering 2024
-URL:https://www.papercall.io/conf42-prompt-engineering-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DevOps D-Day #9@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241021
-LOCATION:Marseille (France)
-SUMMARY:DevOps D-Day #9
-URL:https://conference-hall.io/devops-dday-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:TECH ROCKS ASIA 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241030
-LOCATION:Ho Chi Minh (Vietnam)
-SUMMARY:TECH ROCKS ASIA 2025
-URL:https://docs.google.com/forms/d/e/1FAIpQLSfEZTE6YAGWyG7ug8FZRYr-RQvs2HD
- o8MRVLgObopO_kdBHHQ/viewform
-END:VEVENT
-BEGIN:VEVENT
-UID:SQL Saturday Belo Horizonte@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241031
-LOCATION:Belo Horizonte (Brazil)
-SUMMARY:SQL Saturday Belo Horizonte
-URL:https://sessionize.com/sql-saturday-belo-horizonte-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:Devfest Sevilla 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241031
+UID:Devfest Sevilla 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
 LOCATION:Sevilla (Spain)
-SUMMARY:Devfest Sevilla 2024
-URL:https://sessionize.com/devfest-sevilla-2024/
+SUMMARY:Devfest Sevilla 2025
+URL:https://sessionize.com/devfest-sevilla-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:Dutch Cloud Native Day 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241031
-LOCATION:Amsterdam (Netherlands)
-SUMMARY:Dutch Cloud Native Day 2024
-URL:https://sessionize.com/dutch-cloud-native-day-2024
+UID:Devfest Lusaka 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Lusaka (Zambia)
+SUMMARY:Devfest Lusaka 2025
+URL:https://app.advocu.com/events/689636e250785ee03f5922bd
 END:VEVENT
 BEGIN:VEVENT
-UID:Touraine Tech@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241031
-LOCATION:Tours (France)
-SUMMARY:Touraine Tech
-URL:https://conference-hall.io/touraine-tech-2025
+UID:DevFest Pwani 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Mombasa (Kenya)
+SUMMARY:DevFest Pwani 2025
+URL:https://app.advocu.com/events/68a57aa2e693a82e4dc3f9f1
 END:VEVENT
 BEGIN:VEVENT
-UID:dxday 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241031
-LOCATION:Bologna (Italy)
-SUMMARY:dxday 2025
-URL:https://sessionize.com/dxday-2025
+UID:DevOpsDays Recife 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Recife (Brazil)
+SUMMARY:DevOpsDays Recife 2025
+URL:https://www.papercall.io/dodrec25
 END:VEVENT
 BEGIN:VEVENT
-UID:NAVIGATE 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241031
-LOCATION:Online
-SUMMARY:NAVIGATE 2025
-URL:https://sessionize.com/navigate-2025
+UID:TEDxOslo2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Oslo (Norway)
+SUMMARY:TEDxOslo2026
+URL:https://sessionize.com/tedxoslo2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:XOps Conference@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241101
-LOCATION:Madrid (Spain)
-SUMMARY:XOps Conference
-URL:https://sessionize.com/xops-conference
+UID:React Advanced Canada@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20250930
+LOCATION:Toronto (Canada)
+SUMMARY:React Advanced Canada
+URL:https://www.papercall.io/reactadvancedcanada
 END:VEVENT
 BEGIN:VEVENT
-UID:Tech Internals Conf@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241101
-LOCATION:Berlin (Germany)
-SUMMARY:Tech Internals Conf
-URL:https://cfp.internals.tech/berlin2025
+UID:TestCon Europe@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251001
+LOCATION:Vilnius (Lithuania)
+SUMMARY:TestCon Europe
+URL:https://airtable.com/appLMKzG4KLtRRZKA/shruR2a0n1n9y3PfA
 END:VEVENT
 BEGIN:VEVENT
-UID:Ghana Artificial Intelligence Summit and Awards@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241101
-LOCATION:Accra (Ghana)
-SUMMARY:Ghana Artificial Intelligence Summit and Awards
-URL:https://www.papercall.io/ghanaaisummit
+UID:DevFest Charlotte 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251001
+LOCATION:Charlotte, NC (USA)
+SUMMARY:DevFest Charlotte 2025
+URL:https://sessionize.com/devfest-charlotte-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:Generation AI@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241103
+UID:Barcamp RD 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251001
+LOCATION:Santiago (Dominican Republic)
+SUMMARY:Barcamp RD 2025
+URL:https://www.papercall.io/barcamprd2025
+END:VEVENT
+BEGIN:VEVENT
+UID:DevOpsDays Wollongong 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251001
+LOCATION:Wollongong (Australia)
+SUMMARY:DevOpsDays Wollongong 2025
+URL:https://www.papercall.io/devopsdays-wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:Power BI Gebruikersdagen 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251001
+LOCATION:Utrecht (Netherlands)
+SUMMARY:Power BI Gebruikersdagen 2026
+URL:https://sessionize.com/power-bi-gebruikersdag-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Montreal@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251004
+LOCATION:Montreal (Canada)
+SUMMARY:DevFest Montreal
+URL:https://www.papercall.io/df-mtl-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Native Days France 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251005
 LOCATION:Paris (France)
-SUMMARY:Generation AI
-URL:https://apidays.typeform.com/to/BUasJhAb
+SUMMARY:Cloud Native Days France 2026
+URL:https://cfp.cloudnativedays.fr/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:APIdays Paris@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241103
+UID:Conf42.com Prompt Engineering 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251006
+LOCATION:Online
+SUMMARY:Conf42.com Prompt Engineering 2025
+URL:https://www.papercall.io/conf42-prompt-engineering-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Wroclaw 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251008
+LOCATION:Wroclaw (Poland)
+SUMMARY:DevFest Wroclaw 2025
+URL:https://app.advocu.com/events/68b02d8ea85eb7eb2759bd35
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Pretoria 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251010
+LOCATION:Pretoria (South Africa)
+SUMMARY:DevFest Pretoria 2025
+URL:https://app.advocu.com/events/68a399d2daab1f2ada0538e0
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest London 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251010
+LOCATION:London (UK)
+SUMMARY:DevFest London 2025
+URL:https://sessionize.com/devfest-london-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:PyData Eindhoven 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251012
+LOCATION:Eindhoven (Netherlands)
+SUMMARY:PyData Eindhoven 2025
+URL:https://cfp.pydata.org/pydata-eindhoven-2025/cfp
+END:VEVENT
+BEGIN:VEVENT
+UID:KubeCon + CloudNativeCon Europe 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251012
+LOCATION:Amsterdam (Netherlands)
+SUMMARY:KubeCon + CloudNativeCon Europe 2026
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/progra
+ m/cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID:SnowCamp 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251014
+LOCATION:Grenoble (France)
+SUMMARY:SnowCamp 2026
+URL:https://conference-hall.io/snowcamp-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:DevCon 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251015
+LOCATION:Bucharest (Romania)
+SUMMARY:DevCon 2025
+URL:https://www.papercall.io/devcon2025
+END:VEVENT
+BEGIN:VEVENT
+UID:DefCamp 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251015
+LOCATION:Bucharest (Romania)
+SUMMARY:DefCamp 2025
+URL:https://sessionize.com/defcamp-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Google DevFest 2025 - Tashkent@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251015
+LOCATION:Tashkent (Uzbekistan)
+SUMMARY:Google DevFest 2025 - Tashkent
+URL:https://app.advocu.com/events/68ac3904bbfa41c347fc9eff
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Dresden 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251015
+LOCATION:Dresden (Germany)
+SUMMARY:BSides Dresden 2025
+URL:https://www.papercall.io/bsidesdresden2025
+END:VEVENT
+BEGIN:VEVENT
+UID:M365 Summit April 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251015
+LOCATION:Online
+SUMMARY:M365 Summit April 2026
+URL:https://sessionize.com/m365-summit-28-30-april-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:Normandie.ai 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251016
+LOCATION:Rouen (France)
+SUMMARY:Normandie.ai 2025
+URL:https://conference-hall.io/normandie-ai-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42.com Robotics 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251020
+LOCATION:Online
+SUMMARY:Conf42.com Robotics 2025
+URL:https://www.papercall.io/conf42-robotics-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Voxxed Days Ticino@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251020
+LOCATION:Lugano (Switzerland)
+SUMMARY:Voxxed Days Ticino
+URL:https://vdt26.cfp.dev/
+END:VEVENT
+BEGIN:VEVENT
+UID:Voxxed Days CERN@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251020
+LOCATION:Geneva (Switzerland)
+SUMMARY:Voxxed Days CERN
+URL:https://vdcern26.cfp.dev/
+END:VEVENT
+BEGIN:VEVENT
+UID:Frontrunners AI/Data@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251024
+LOCATION:Washington D.C. (USA)
+SUMMARY:Frontrunners AI/Data
+URL:https://www.papercall.io/frontrunnersai2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Frontrunners JS/Web@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251024
+LOCATION:Washington D.C. (USA)
+SUMMARY:Frontrunners JS/Web
+URL:https://www.papercall.io/frontrunners2026
+END:VEVENT
+BEGIN:VEVENT
+UID:APIdays Australia@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251029
+LOCATION:Melbourne (Australia)
+SUMMARY:APIdays Australia
+URL:https://apidays.typeform.com/to/ILJeAaV8
+END:VEVENT
+BEGIN:VEVENT
+UID:devopsdays Porto Alegre@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251030
+LOCATION:Porto Alegre (Brazil)
+SUMMARY:devopsdays Porto Alegre
+URL:https://www.papercall.io/devopsdayspoa2025
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Raipur 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251031
+LOCATION:Raipur (India)
+SUMMARY:DevFest Raipur 2025
+URL:https://app.advocu.com/events/689894b150785ee03f59fee4
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Campeche 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251031
+LOCATION:San Francisco de Campeche (Mexico)
+SUMMARY:DevFest Campeche 2025
+URL:https://app.advocu.com/events/68a633bfbfb9c3fab3ee2bae
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest 2025 GDG Campinas@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251101
+LOCATION:Campinas (Brazil)
+SUMMARY:DevFest 2025 GDG Campinas
+URL:https://app.advocu.com/events/68b1fb50118dc09bab3d98ae
+END:VEVENT
+BEGIN:VEVENT
+UID:DecompileD 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251101
+LOCATION:Dresden (Germany)
+SUMMARY:DecompileD 2026
+URL:https://sessionize.com/decompiled-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:Empower Tech 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251103
+LOCATION:Bucharest (Romania)
+SUMMARY:Empower Tech 2025
+URL:https://www.papercall.io/empowertech
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42.com DevSecOps 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251104
+LOCATION:Online
+SUMMARY:Conf42.com DevSecOps 2025
+URL:https://www.papercall.io/conf42-devsecops-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:APIdays Amsterdam@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251106
+LOCATION:Amsterdam (Netherlands)
+SUMMARY:APIdays Amsterdam
+URL:https://apidays.typeform.com/to/ILJeAaV8
+END:VEVENT
+BEGIN:VEVENT
+UID:APIdays Paris@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251109
 LOCATION:Paris (France)
 SUMMARY:APIdays Paris
 URL:https://apidays.typeform.com/to/ILJeAaV8
 END:VEVENT
 BEGIN:VEVENT
-UID:Conf42.com DevSecOps 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241104
+UID:XmasDev 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251109
+LOCATION:Rome (Italy)
+SUMMARY:XmasDev 2025
+URL:https://sessionize.com/xmasdev-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Ecuador@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251110
+LOCATION:Quito (Ecuador)
+SUMMARY:DevFest Ecuador
+URL:https://app.advocu.com/events/68a812d0a8a700bbffec5b05
+END:VEVENT
+BEGIN:VEVENT
+UID:North American M365 Summit@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251115
 LOCATION:Online
-SUMMARY:Conf42.com DevSecOps 2024
-URL:https://www.papercall.io/conf42-devsecops-2024
+SUMMARY:North American M365 Summit
+URL:https://sessionize.com/north-american-m365-summit-17-18-mar/
 END:VEVENT
 BEGIN:VEVENT
-UID:GraphQL Day Europe@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241105
-LOCATION:Paris (France)
-SUMMARY:GraphQL Day Europe
-URL:https://apidays.typeform.com/to/ILJeAaV8
-END:VEVENT
-BEGIN:VEVENT
-UID:GDG DevFest Bucharest 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241106
-LOCATION:Bucharest (Romania)
-SUMMARY:GDG DevFest Bucharest 2024
-URL:https://www.papercall.io/devfest-bucharest-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:ServerlessDays Manchester@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241110
-LOCATION:Manchester (UK)
-SUMMARY:ServerlessDays Manchester
-URL:https://sessionize.com/serverlessdays-manchester/
-END:VEVENT
-BEGIN:VEVENT
-UID:RUHRSEC 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241110
-LOCATION:Bochum (Germany)
-SUMMARY:RUHRSEC 2025
-URL:https://www.ruhrsec.de/2025/cfp.html
-END:VEVENT
-BEGIN:VEVENT
-UID:EMPOWER@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241115
-LOCATION:Bucharest (Romania)
-SUMMARY:EMPOWER
-URL:https://www.papercall.io/my-empower
-END:VEVENT
-BEGIN:VEVENT
-UID:Frontrunners Mar 21, 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241115
-LOCATION:Washington D.C. (USA)
-SUMMARY:Frontrunners Mar 21, 2025
-URL:https://www.papercall.io/frontrunners2025
-END:VEVENT
-BEGIN:VEVENT
-UID:NDC Melbourne 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241117
-LOCATION:Melbourne (Australia)
-SUMMARY:NDC Melbourne 2025
-URL:https://sessionize.com/ndc-melbourne-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com Internet of Things (IoT) 2024@dca-2024
-DTSTAMP:20240913T094421
-DTSTART:20241118
+UID:Conf42.com Internet of Things (IoT) 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251117
 LOCATION:Online
-SUMMARY:Conf42.com Internet of Things (IoT) 2024
-URL:https://www.papercall.io/conf42-iot-2024
+SUMMARY:Conf42.com Internet of Things (IoT) 2025
+URL:https://www.papercall.io/conf42-iot-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:nor(DEV): con 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241122
-LOCATION:Norwich (UK)
-SUMMARY:nor(DEV): con 2025
-URL:https://sessionize.com/norfolk-developers-conference-2025
+UID:DevFest'25 Kocaeli@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251122
+LOCATION:Izmit (Turkey)
+SUMMARY:DevFest'25 Kocaeli
+URL:https://app.advocu.com/events/68af150f04c92b1c261973a6
 END:VEVENT
 BEGIN:VEVENT
-UID:Cybersec Asia 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241130
+UID:Apres-Cyber Slopes Summit 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251128
+LOCATION:Park City, UT (USA)
+SUMMARY:Apres-Cyber Slopes Summit 2026
+URL:https://sessionize.com/apres-cyber-slopes-summit-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cybersec Asia x Thailand International Cyber Week 2026 (powered by NCSA
+ )@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251130
 LOCATION:Bangkok (Thailand)
-SUMMARY:Cybersec Asia 2025
-URL:https://www.papercall.io/cybersecasia25
+SUMMARY:Cybersec Asia x Thailand International Cyber Week 2026 (powered by 
+ NCSA)
+URL:https://www.papercall.io/cybersecasia26
 END:VEVENT
 BEGIN:VEVENT
-UID:Cybersec Asia 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241130
-LOCATION:Bangkok (Thailand)
-SUMMARY:Cybersec Asia 2025
-URL:https://www.papercall.io/cybersecasia25
-END:VEVENT
-BEGIN:VEVENT
-UID:HashiTalks: América Latina@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241205
-LOCATION:Online
-SUMMARY:HashiTalks: América Latina
-URL:https://sessionize.com/hashitalks-america-latina
-END:VEVENT
-BEGIN:VEVENT
-UID:HashiTalks: Israel@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241205
-LOCATION:Online
-SUMMARY:HashiTalks: Israel
-URL:https://sessionize.com/hashitalks-israel
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com DevOps 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241216
-LOCATION:Online
-SUMMARY:Conf42.com DevOps 2025
-URL:https://www.papercall.io/conf42-devops-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:RustAsia 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241231
-LOCATION:Hong Kong (China)
-SUMMARY:RustAsia 2025
-URL:https://www.rustasiaconf.com/proposals
-END:VEVENT
-BEGIN:VEVENT
-UID:Java Day Istanbul 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20241231
-LOCATION:Istanbul (Turkey)
-SUMMARY:Java Day Istanbul 2025
-URL:https://www.papercall.io/javaday-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com Chaos Engineering 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250113
-LOCATION:Online
-SUMMARY:Conf42.com Chaos Engineering 2025
-URL:https://www.papercall.io/conf42-chaos-engineering-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:DDD Europe - 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250116
-LOCATION:Antwerp (Belgium)
-SUMMARY:DDD Europe - 2025
-URL:https://sessionize.com/aardling2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com Python 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250127
-LOCATION:Online
-SUMMARY:Conf42.com Python 2025
-URL:https://www.papercall.io/conf42-python-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:VoxxedDays Bucharest@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250131
-LOCATION:Bucharest (Romania)
-SUMMARY:VoxxedDays Bucharest
-URL:hhttps://vdbuh2025.cfp.dev/
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com Cloud Native 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250217
-LOCATION:Online
-SUMMARY:Conf42.com Cloud Native 2025
-URL:https://www.papercall.io/conf42-cloud-native-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:Conf42.com Large Language Models (LLMs) 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250310
-LOCATION:Online
-SUMMARY:Conf42.com Large Language Models (LLMs) 2025
-URL:https://www.papercall.io/conf42-large-language-models-llms-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:APIdays Singapore@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250315
-LOCATION:Singapore (Singapore)
-SUMMARY:APIdays Singapore
-URL:https://apidays.typeform.com/to/ILJeAaV8
-END:VEVENT
-BEGIN:VEVENT
-UID:Evento de datos Valencia 2025@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250331
-LOCATION:Valencia (Spain)
-SUMMARY:Evento de datos Valencia 2025
-URL:https://sessionize.com/evento-de-datos-valencia-mayo-2025
-END:VEVENT
-BEGIN:VEVENT
-UID:APIdays New York@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250414
-LOCATION:New York, NY (USA)
-SUMMARY:APIdays New York
-URL:https://apidays.typeform.com/to/ILJeAaV8
-END:VEVENT
-BEGIN:VEVENT
-UID:APIdays Helsinki and North@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250503
-LOCATION:Helsinki (Finland)
-SUMMARY:APIdays Helsinki and North
-URL:https://apidays.typeform.com/to/ILJeAaV8
-END:VEVENT
-BEGIN:VEVENT
-UID:APIdays Munich@dca-2025
-DTSTAMP:20240913T094421
-DTSTART:20250602
+UID:stackconf 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251130
 LOCATION:Munich (Germany)
-SUMMARY:APIdays Munich
-URL:https://apidays.typeform.com/to/ILJeAaV8
+SUMMARY:stackconf 2026
+URL:https://stackconf.eu/propose/
+END:VEVENT
+BEGIN:VEVENT
+UID:Voxxed Days Zurich@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251201
+LOCATION:Zurich (Switzerland)
+SUMMARY:Voxxed Days Zurich
+URL:https://vdz26.cfp.dev/
+END:VEVENT
+BEGIN:VEVENT
+UID:RubyConf Austria 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251201
+LOCATION:Vienna (Austria)
+SUMMARY:RubyConf Austria 2026
+URL:https://www.papercall.io/rubyconfaustria2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Green IO Paris@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251209
+LOCATION:Paris (France)
+SUMMARY:Green IO Paris
+URL:https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-fo
+ r-speakers&typeform-source=greenio.tech
+END:VEVENT
+BEGIN:VEVENT
+UID:DataGrillen 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251214
+LOCATION:Lingen (Germany)
+SUMMARY:DataGrillen 2026
+URL:https://sessionize.com/datagrillen-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:Java Day Istanbul 2026@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20251215
+LOCATION:Istanbul (Turkey)
+SUMMARY:Java Day Istanbul 2026
+URL:https://www.papercall.io/javadayistanbul2026
+END:VEVENT
+BEGIN:VEVENT
+UID:TestBash Brighton 2025@dca-2025
+DTSTAMP:20250904T125016
+DTSTART:20251222
+LOCATION:Brighton (UK)
+SUMMARY:TestBash Brighton 2025
+URL:https://www.ministryoftesting.com/contribute
+END:VEVENT
+BEGIN:VEVENT
+UID:CypherCon 9 (2026)@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20260112
+LOCATION:Milwaukee, WI (USA)
+SUMMARY:CypherCon 9 (2026)
+URL:https://sessionize.com/cyphercon-9-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:Domain-Driven Design Europe@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20260116
+LOCATION:Antwerp (Belgium)
+SUMMARY:Domain-Driven Design Europe
+URL:https://2026.dddeurope.com/cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID:DataMeshLive@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20260116
+LOCATION:Antwerp (Belgium)
+SUMMARY:DataMeshLive
+URL:https://2026.datameshlive.com/cfp
+END:VEVENT
+BEGIN:VEVENT
+UID:Web Days Convention@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20260202
+LOCATION:Aix-en-Provence (France)
+SUMMARY:Web Days Convention
+URL:https://conference-hall.io/web-days-convention
+END:VEVENT
+BEGIN:VEVENT
+UID:Green IO Singapore@dca-2026
+DTSTAMP:20250904T125016
+DTSTART:20260414
+LOCATION:Singapore (Singapore)
+SUMMARY:Green IO Singapore
+URL:https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-fo
+ r-speakers&typeform-source=greenio.tech
 END:VEVENT
 END:VCALENDAR
